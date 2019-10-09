@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\ActionController\CCActionManager.cs">
+    <Files>
+      <File FileName="Assets\Script\GameObjects\Disks\DiskFactory.cs" Line="60" Column="38" />
+      <File FileName="Assets\Script\GameObjects\Disks\Disk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GUI\InterfaceGUI.cs" Line="34" Column="14" />
+      <File FileName="Assets\Script\Interface.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SSDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ActionController\BasicActionCroller\CCMoveToAction.cs" Line="21" Column="20" />
+      <File FileName="Assets\Script\ActionController\BasicActionCroller\SSActionManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ActionController\CCActionManager.cs" Line="1" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
